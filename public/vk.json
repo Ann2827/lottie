@@ -1,0 +1,2034 @@
+{
+    "response": {
+        "product": {
+            "id": 2190,
+            "type": "stickers",
+            "is_new": false,
+            "copyright": "© ООО «В Контакте» 2024",
+            "purchased": 0,
+            "active": 0,
+            "title": "СберКот на чиле весь год",
+            "stickers": [
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 102124,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102124-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102124-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102124-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102124-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102124-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102124-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102124-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102124-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102124-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102124-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-102124.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-102124.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-102124b.json"
+                        }
+                    ],
+                    "is_allowed": true
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 102125,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102125-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102125-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102125-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102125-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102125-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102125-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102125-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102125-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102125-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102125-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-102125.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-102125.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-102125b.json"
+                        }
+                    ],
+                    "is_allowed": true
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 102126,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102126-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102126-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102126-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102126-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102126-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102126-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102126-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102126-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102126-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102126-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-102126.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-102126.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-102126b.json"
+                        }
+                    ],
+                    "is_allowed": true
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 102127,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102127-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102127-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102127-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102127-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102127-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102127-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102127-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102127-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102127-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102127-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-102127.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-102127.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-102127b.json"
+                        }
+                    ],
+                    "is_allowed": true
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 102128,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102128-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102128-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102128-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102128-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102128-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102128-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102128-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102128-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102128-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102128-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-102128.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-102128.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-102128b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 102129,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102129-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102129-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102129-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102129-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102129-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102129-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102129-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102129-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102129-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-102129-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-102129.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-102129.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-102129b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 103363,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103363-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103363-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103363-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103363-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103363-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103363-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103363-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103363-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103363-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103363-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-103363.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-103363.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-103363b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 103364,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103364-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103364-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103364-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103364-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103364-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103364-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103364-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103364-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103364-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-103364-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-103364.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-103364.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-103364b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 104297,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104297-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104297-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104297-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104297-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104297-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104297-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104297-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104297-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104297-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104297-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-104297.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-104297.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-104297b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 104298,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104298-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104298-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104298-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104298-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104298-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104298-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104298-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104298-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104298-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104298-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-104298.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-104298.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-104298b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 104413,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104413-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104413-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104413-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104413-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104413-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104413-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104413-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104413-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104413-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104413-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-104413.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-104413.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-104413b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 104414,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104414-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104414-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104414-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104414-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104414-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104414-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104414-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104414-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104414-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-104414-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-104414.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-104414.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-104414b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 105607,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105607-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105607-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105607-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105607-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105607-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105607-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105607-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105607-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105607-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105607-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-105607.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-105607.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-105607b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 105608,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105608-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105608-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105608-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105608-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105608-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105608-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105608-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105608-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105608-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-105608-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-105608.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-105608.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-105608b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 107569,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107569-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107569-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107569-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107569-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107569-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107569-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107569-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107569-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107569-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107569-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-107569.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-107569.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-107569b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 107570,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107570-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107570-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107570-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107570-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107570-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107570-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107570-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107570-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107570-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-107570-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-107570.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-107570.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-107570b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 108911,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108911-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108911-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108911-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108911-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108911-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108911-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108911-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108911-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108911-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108911-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-108911.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-108911.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-108911b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 108912,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108912-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108912-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108912-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108912-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108912-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108912-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108912-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108912-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108912-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-108912-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-108912.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-108912.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-108912b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 109719,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109719-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109719-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109719-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109719-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109719-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109719-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109719-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109719-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109719-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109719-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-109719.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-109719.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-109719b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 109720,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109720-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109720-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109720-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109720-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109720-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109720-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109720-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109720-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109720-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-109720-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-109720.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-109720.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-109720b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 110323,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110323-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110323-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110323-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110323-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110323-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110323-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110323-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110323-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110323-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110323-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-110323.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-110323.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-110323b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 110324,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110324-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110324-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110324-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110324-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110324-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110324-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110324-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110324-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110324-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-110324-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-110324.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-110324.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-110324b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 111130,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111130-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111130-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111130-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111130-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111130-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111130-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111130-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111130-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111130-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111130-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-111130.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-111130.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-111130b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 111131,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111131-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111131-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111131-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111131-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111131-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111131-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111131-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111131-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111131-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-111131-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-111131.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-111131.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-111131b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 112226,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112226-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112226-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112226-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112226-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112226-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112226-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112226-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112226-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112226-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112226-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-112226.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-112226.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-112226b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 112227,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112227-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112227-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112227-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112227-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112227-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112227-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112227-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112227-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112227-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-112227-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-112227.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-112227.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-112227b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 113582,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113582-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113582-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113582-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113582-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113582-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113582-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113582-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113582-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113582-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113582-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-113582.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-113582.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-113582b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                },
+                {
+                    "inner_type": "base_sticker_new",
+                    "sticker_id": 113583,
+                    "images": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113583-64",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113583-128",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113583-256",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113583-352",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113583-512",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "images_with_background": [
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113583-64b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113583-128b",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113583-256b",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113583-352b",
+                            "width": 352,
+                            "height": 352
+                        },
+                        {
+                            "url": "https:\/\/vk.com\/sticker\/1-113583-512b",
+                            "width": 512,
+                            "height": 512
+                        }
+                    ],
+                    "animation_url": "https:\/\/vk.com\/sticker\/3-113583.json",
+                    "animations": [
+                        {
+                            "type": "light",
+                            "url": "https:\/\/vk.com\/sticker\/3-113583.json"
+                        },
+                        {
+                            "type": "dark",
+                            "url": "https:\/\/vk.com\/sticker\/3-113583b.json"
+                        }
+                    ],
+                    "is_allowed": false
+                }
+            ],
+            "icon": {
+                "base_url": "https:\/\/vk.com\/sticker\/packs\/2190\/icon"
+            },
+            "previews": [
+                {
+                    "url": "https:\/\/vk.com\/sticker\/2-2190-thumb-22-",
+                    "width": 22,
+                    "height": 22
+                },
+                {
+                    "url": "https:\/\/vk.com\/sticker\/2-2190-thumb-34-",
+                    "width": 34,
+                    "height": 34
+                },
+                {
+                    "url": "https:\/\/vk.com\/sticker\/2-2190-thumb-44-",
+                    "width": 44,
+                    "height": 44
+                },
+                {
+                    "url": "https:\/\/vk.com\/sticker\/2-2190-thumb-68-",
+                    "width": 68,
+                    "height": 68
+                },
+                {
+                    "url": "https:\/\/vk.com\/sticker\/2-2190-thumb-102-",
+                    "width": 102,
+                    "height": 102
+                }
+            ],
+            "has_animation": true,
+            "url": "https:\/\/vk.com\/stickers\/sbercatchillingallyear"
+        },
+        "description": "Кто хорошо работает — тот хорошо отдыхает! Смотрите, какие стикеры шлёт СберКот из своих путешествий. Идеально подходят, чтобы украсить вашу переписку.",
+        "author": "Сбербанк",
+        "can_purchase": 0,
+        "can_gift": 0,
+        "photo_35": "https:\/\/vk.com\/sticker\/2-2190-cover-35b-",
+        "photo_70": "https:\/\/vk.com\/sticker\/2-2190-cover-70b-",
+        "photo_140": "https:\/\/vk.com\/sticker\/2-2190-cover-140b-",
+        "photo_296": "https:\/\/vk.com\/sticker\/2-2190-preview-296-",
+        "photo_592": "https:\/\/vk.com\/sticker\/2-2190-preview-592-",
+        "background": "https:\/\/vk.com\/sticker\/2-2190-background--",
+        "demo_photos_560": [
+            "https:\/\/vk.com\/sticker\/3-102127.json"
+        ],
+        "purchase_details": {
+            "label": "Установить набор",
+            "title": "Стикерочки от СберКота",
+            "text": "Чтобы узнать, как получить стикеры, напишите любое сообщение в сообщество «СберКот».",
+            "button": {
+                "action": {
+                    "type": "open_url",
+                    "target": "internal",
+                    "url": "https:\/\/vk.me\/sberkot "
+                },
+                "title": "Жмякнуть тут"
+            }
+        },
+        "version_hash": "1e17a56dc78a48d1061bd2c411e0904e"
+    }
+}
